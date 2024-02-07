@@ -44,6 +44,10 @@ En el contexto de Jupyter Notebooks, las "celdas mágicas" son comandos especial
 
 - `%matplotlib inline`: Para mostrar gráficos dentro del notebook.
 
+- [Ver el ejemplo de Magic Cells](https://github.com/josiasazmitia/git-gitgub/blob/master/MagicCellsExamples.ipynb)
+- [Ver el mismo ejemple de Magic Cells en notebooks.gesis.org](https://notebooks.gesis.org/binder/jupyter/user/josiasazmitia-git-gitgub-k1hvhicx/lab/tree/MagicCellsExamples.ipynb)
+
+
 ---
 
 © 2024 Josias Chocooj | Carnet: 24000705 | [Contacto](mailto:josias.azmitia@galileo.edu)
